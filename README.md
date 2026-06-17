@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project demonstrates how to create an Azure Network Interface Card (NIC) using Terraform.
+This project demonstrates how to create an Azure Network Interface Card (NIC) using Terraform simple.
 
 The Network Interface (NIC) acts as a connection point between an Azure Virtual Machine and a Virtual Network (VNet). It enables communication between resources inside and outside Azure.
 
